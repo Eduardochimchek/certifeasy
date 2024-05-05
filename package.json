@@ -1,0 +1,16 @@
+{
+  "name": "certifeasy",
+  "version": "1.0.0",
+  "description": "CertifEasy é uma aplicação web desenvolvida em Node.js que simplifica o processo de geração automática de certificados personalizados. Esta ferramenta permite aos usuários criar certificados de forma rápida e eficiente, utilizando um modelo no Microsoft Word e inserindo seus dados, como nome e CPF.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docxtemplater": "^3.47.1",
+    "express": "^4.19.2"
+  }
+}
